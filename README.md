@@ -11,10 +11,13 @@
 * [![DaisyUI][daisyui]][daisyui-url]
 * [![Tailwind CSS][tailwind]][tailwind-url]
 
-[tailwind]:(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorlogo.zone%2Flogos%2Ftailwindcss%2Findex.html&psig=AOvVaw385NScdwHah218YJXhOcNf&ust=1687341122021000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDh8NPJ0f8CFQAAAAAdAAAAABAE)
+
+
+
+[tailwind]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [tailwind-url]: https://tailwindcss.com/
 
-[daisyui]: (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.saashub.com%2Fdaisyui-alternatives&psig=AOvVaw1YbOS00AS7AWXgMY5nZX7_&ust=1687341060072000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjwm7fJ0f8CFQAAAAAdAAAAABAE)
+[daisyui]: https://img.shields.io/badge/DaisyUI-1B4E5F?style=for-the-badge&logo=daisyui&logoColor=white
 [daisyui-url]: https://daisyui.com/
 
 [html]: https://img.shields.io/badge/HTML-DD4B24?style=for-the-badge&logo=html5&logoColor=white
