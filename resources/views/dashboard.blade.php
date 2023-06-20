@@ -9,9 +9,9 @@
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="card">
                 <div class="card-body dark:bg-gray-800">
-                    <form action="" method="POST">
+                    <form action="{{ route('tweets.store') }}" method="POST">
                         @csrf
-                        <textarea name="" class="textarea textarea-bordered w-full" rows="3" placeholder="What Do You Think ??"></textarea>
+                        <textarea name="content" class="textarea textarea-bordered w-full" rows="3" placeholder="What Do You Think ??"></textarea>
                         <input type="submit" value="Tweet" class="btn btn-primary">
                     </form>
                 </div>
