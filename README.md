@@ -60,6 +60,11 @@ Dibangun menggunakan beberapa teknologi web modern, termasuk PHP (Laravel Framew
 ## Forgot-Password Page
 
 ![Forgot-Password Page](/public/images/forgot-password.jpg)
+
+## Profile Page
+
+![Profile Page](/public/images/profile-1.jpg)
+![Profile Page](/public/images/profile-2.jpg)
 ## Instalasi
 
 Ikuti langkah-langkah berikut untuk menginstal dan menjalankan projek ini secara lokal:
