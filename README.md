@@ -44,6 +44,22 @@ Dibangun menggunakan beberapa teknologi web modern, termasuk PHP (Laravel Framew
 - **Fitur 1:** Login & Register.
 - **Fitur 2:** CRUD.
 
+# Design Tampilan
+## Tampilan Awal
+
+![Tampilan Awal](/public/images/wellcome.jpg)
+
+## Page Login
+
+![Page login](/public/images/login.jpg)
+
+## Page Register
+
+![Page Register](/public/images/register.jpg)
+
+## Forgot-Password Page
+
+![Forgot-Password Page](/public/images/forgot-password.jpg)
 ## Instalasi
 
 Ikuti langkah-langkah berikut untuk menginstal dan menjalankan projek ini secara lokal:
