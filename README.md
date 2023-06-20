@@ -10,9 +10,10 @@
 * [![MySql][mysql]][mysql-url]
 * [![DaisyUI][daisyui]][daisyui-url]
 * [![Tailwind CSS][tailwind]][tailwind-url]
+* [![Laravel][laravel]][laravel-url]
 
-
-
+[laravel]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[laravel-url]: https://laravel.com/
 
 [tailwind]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [tailwind-url]: https://tailwindcss.com/
