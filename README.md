@@ -11,6 +11,11 @@
 * [![DaisyUI][daisyui]][daisyui-url]
 * [![Tailwind CSS][tailwind]][tailwind-url]
 * [![Laravel][laravel]][laravel-url]
+* [![Laravel Breeze][breeze]][breezel-url]
+
+[breeze]: https://img.shields.io/badge/Laravel_Breeze-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[breeze-url]: https://laravel.com/docs/10.x/starter-kits#laravel-breeze
+
 
 [laravel]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [laravel-url]: https://laravel.com/
