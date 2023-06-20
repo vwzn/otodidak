@@ -2,7 +2,7 @@
 
 ## Tweets App
 
-![Logo Projek](path/to/logo.png)
+
 
 Dibangun menggunakan beberapa teknologi web modern, termasuk PHP (Laravel Framework), HTML, CSS, JavaScript, DaisyUI, dan Tailwind.
 
