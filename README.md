@@ -65,7 +65,7 @@ Dibangun menggunakan beberapa teknologi web modern, termasuk PHP (Laravel Framew
 
 ![Profile Page](/public/images/profile-1.jpg)
 ![Profile Page](/public/images/profile-2.jpg)
-## Instalasi
+# Instalasi
 
 Ikuti langkah-langkah berikut untuk menginstal dan menjalankan projek ini secara lokal:
 
@@ -77,15 +77,15 @@ Ikuti langkah-langkah berikut untuk menginstal dan menjalankan projek ini secara
 6. Jalankan perintah `php artisan migrate` untuk menjalankan migrasi database.
 7. Jalankan perintah `php artisan serve` untuk menjalankan server pengembangan.
 
-## Kontribusi
+# Kontribusi
 
 Kami sangat menyambut kontribusi dari komunitas. Jika Anda ingin berkontribusi pada projek ini, silakan ikuti panduan berkontribusi yang terdapat dalam file [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Pelaporan Masalah
+# Pelaporan Masalah
 
 Jika Anda menemukan masalah atau bug dalam projek ini, silakan laporkan dengan mengajukan tiket masalah di halaman [Issues](https://github.com/vwzn/otodidak/issues).
 
-## Lisensi
+# Lisensi
 
 Projek ini dilisensikan di bawah lisensi [MIT](LICENSE).
 
