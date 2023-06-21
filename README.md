@@ -3,7 +3,7 @@
 ## Tweets App
 
 # Author
-* [@vwzn](https://github.com/vwzn)
+* [Ahmad Fauzan Abdurrohman](https://github.com/vwzn)
   
 ### Di Built Dengan
 * [![HTML][html]][html-url]
